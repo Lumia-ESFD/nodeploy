@@ -1,6 +1,7 @@
 module.exports = {
   title: '瓜农的文档',
   description: '曾经是码农，现在是瓜农',
+  theme: 'reco',
   locales: {
     '/': {
       lang: 'zh-CN'
