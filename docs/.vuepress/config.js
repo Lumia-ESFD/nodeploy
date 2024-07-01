@@ -1,7 +1,6 @@
 module.exports = {
   title: '瓜农的文档',
   description: '曾经是码农，现在是瓜农',
-  base: '/lumia-esfd.github.io/',
   locales: {
     '/': {
       lang: 'zh-CN'
